@@ -3,7 +3,7 @@
 
 Medium article Link: https://medium.com/@sanjaybhargav.madamanchi/spatial-temporal-data-science-of-covid-19-data-b813ca636cbe
 
-Presentation Link: 
+Presentation Link: https://www.slideshare.net/SanjayBhargavMadaman/spatialtemporal-data-science-of-covid19-datapptx
 
 Demo Presentation Link: 
 
